@@ -1,0 +1,2 @@
+Object.defineProperty(exports,"__esModule",{value:true});var defaultRefs=exports.defaultRefs={nullFunc:function nullFunc(){return null;},emptyObj:{},emptyArr:[],emptyStr:""};
+//# sourceMappingURL=defaultRefs.js.map

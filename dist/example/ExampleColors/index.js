@@ -1,0 +1,2 @@
+Object.defineProperty(exports,"__esModule",{value:true});var _ExampleColors=require("./ExampleColors");Object.keys(_ExampleColors).forEach(function(key){if(key==="default"||key==="__esModule")return;Object.defineProperty(exports,key,{enumerable:true,get:function get(){return _ExampleColors[key];}});});
+//# sourceMappingURL=index.js.map
