@@ -1,5 +1,5 @@
 {
-  "name": "react-native-common-lib",
+  "name": "react-native-common-lib-web",
   "version": "1.6.4",
   "description": "Clean, lightweight Components for React Native",
   "main": "dist/index.js",
