@@ -31,7 +31,7 @@
   "peerDependencies": {
     "react": ">= 16.0.0",
     "react-native": ">= 0.52.0",
-    "react-native-switch": "git+https://github.com/shrutishankar28/react-native-switch.git"
+    "react-native-switch-web": "git+https://github.com/shrutishankar28/react-native-switch.git"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
